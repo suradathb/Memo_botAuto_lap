@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+playwright_debug/
+downloads/
+*.pyc
+.DS_Store
